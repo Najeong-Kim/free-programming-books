@@ -115,6 +115,11 @@
 * [Webpack 문서 한글 번역](https://webpack.kr/concepts/) - Tobias Koppers, Sean Larkin, Johannes Ewald, LINE Corp, Dongkyun Yoo, et al.
 
 
+#### React
+
+* [리액트를 다루는 기술 [개정판]](https://thebook.io/080203/)
+
+
 ### LaTeX
 
 * [The Not So short Introduction to LaTeX 2ε](https://ctan.org/tex-archive/info/lshort/korean)
